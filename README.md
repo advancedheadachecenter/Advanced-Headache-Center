@@ -17,7 +17,9 @@ Headache Medicine, Interventional Pain Medicine
 
 # Location:
 Google maps: https://goo.gl/maps/qjau25APCCFC7rpb9
+
 https://plus.codes/87G8P2M4+G3 New York
+
 Nearby Locations:
 Union Square, Peter Cooper Village, Ukrainian Village, Noho, Greenwich Village
 10003, 10009, 10010, 10012, 10014
