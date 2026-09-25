@@ -8,5 +8,12 @@ Headache Medicine, Interventional Pain Medicine
 <p><br>The center treats migraine, chronic migraine, chronic headaches, tension headaches, cluster headaches, occipital neuralgia, cervicogenic headaches, post-concussion headaches, trigeminal neuralgia, rebound headaches, sinus-related headaches, and other head, neck, and facial pain conditions.</p>
 <p><br>Core treatment options may include migraine medication management, rational polypharmacy, trigger point injections, occipital nerve blocks, sphenopalatine ganglion block, stellate ganglion block, intravenous infusions, acupuncture, chiropractic care, physical therapy, and integrative headache care. The practice uses a coordinated care model that combines medical evaluation, interventional treatment options, rehabilitation support, and prevention-focused planning when appropriate.</p>
 <p><br>The Greenwich Village office serves patients from Union Square, NoHo, Ukrainian Village, Peter Cooper Village, East Village, Flatiron District, Lower Manhattan, and nearby New York City communities. To schedule an appointment with Advanced Headache Center in NYC, call 646-763-2222 or visit <a href="https://www.advancedheadachecenter.com/">https://www.advancedheadachecenter.com/</a>.</p>
-# Practice Areas:
 
+# Practice Areas:
+<p><a href="https://www.advancedheadachecenter.com/migraines"><span data-sheets-root="1">Chronic migraine treatment</span></a></p>
+<p><a href="https://www.advancedheadachecenter.com/headaches/cluster-headaches"><span data-sheets-root="1">Cluster headache treatment</span></a></p>
+<p><span data-sheets-root="1">Tension headache treatment</span></p>
+<p><span data-sheets-root="1">Chronic headache treatment</span></p>
+
+# Location:
+Google maps: https://goo.gl/maps/qjau25APCCFC7rpb9
